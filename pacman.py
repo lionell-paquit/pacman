@@ -12,6 +12,7 @@ class PacMan:
         self.F = None
         self.dim_X = 5
         self.dim_Y = 5
+        # Not yet used but this list can be used to optimise rotate and move function
         self.dir = ["NORTH", "EAST", "SOUTH", "WEST"]
 
     # Function that checks whether the move or place of pacman is on or off grid.
