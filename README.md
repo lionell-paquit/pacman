@@ -1,1 +1,3 @@
-Basic comman on a pacman game using python.
+Basic commands in pacman game using python.
+
+IE Digital Code Challenge.
